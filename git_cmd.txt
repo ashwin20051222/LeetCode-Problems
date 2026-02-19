@@ -1,0 +1,17 @@
+echo "# LeetCode-Problems" >> README.md
+git init
+git add README.md
+git commit -m "first commit"
+git branch -M main
+git remote add origin https://github.com/ashwin20051222/LeetCode-Problems.git
+git push -u origin main
+
+
+git remote add origin https://github.com/ashwin20051222/LeetCode-Problems.git
+git branch -M main
+git push -u origin main
+
+
+https://github.com/ashwin20051222/LeetCode-Problems.git
+
+not mention that problems , that are in separet e file , you include that readme file  with link to thta problem
