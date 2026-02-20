@@ -9,20 +9,29 @@ This repository contains solutions to LeetCode problems written in C.
 
 ---
 
-## Solutions
+## Solutions by Category
 
-- [Sqrt(x)](69_Sqrt_x.c)
-- [Two Sum](1_Two_Sum.c)
-- [Valid Parentheses](20_valid_parantheses.c)
-- [Palindrome Number](9_palindrome_number.c)
-- [Contains Duplicate](217_Contains_Duplicate.c)
-- [Remove Duplicates from Sorted Array](26_Remove_Duplicates_from_Sorted_Arra.c)
-- [Remove Element](27_Remove_Elemen.c)
-- [Move Zeroes](283_Move_Zeroe.c)
-- [Power of Two](231_power_of_two.c)
-- [Best Time to Buy and Sell Stock](121_Best_Time_to_Buy_and_Sell_Stock.c)
-- [Maximum Subarray](53_Maximum_Subarray.c)
-- [Difference Between Product and Sum of Digits](1281_Difference_between_product_and_sum_of_digit.c)
+### Array Manipulation
+- [Two Sum](1_Two_Sum.c) - Find two numbers that add up to target
+- [Contains Duplicate](217_Contains_Duplicate.c) - Check if array has duplicates
+- [Remove Duplicates from Sorted Array](26_Remove_Duplicates_from_Sorted_Arra.c) - Remove duplicates in-place
+- [Remove Element](27_Remove_Elemen.c) - Remove all occurrences of a value
+- [Move Zeroes](283_Move_Zeroe.c) - Move all zeros to the end
+
+### Dynamic Programming
+- [Best Time to Buy and Sell Stock](121_Best_Time_to_Buy_and_Sell_Stock.c) - Maximize profit from stock transactions
+- [Maximum Subarray](53_Maximum_Subarray.c) - Find contiguous subarray with largest sum
+
+### Stack & String
+- [Valid Parentheses](20_valid_parantheses.c) - Check if parentheses are balanced
+
+### Math & Number Theory
+- [Palindrome Number](9_palindrome_number.c) - Check if number is palindrome
+- [Power of Two](231_power_of_two.c) - Determine if number is power of two
+- [Difference Between Product and Sum of Digits](1281_Difference_between_product_and_sum_of_digit.c) - Calculate digit product and sum difference
+
+### Binary Search & Math
+- [Sqrt(x)](69_Sqrt_x.c) - Calculate integer square root
 
 ---
 
