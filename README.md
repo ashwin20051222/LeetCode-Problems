@@ -14,6 +14,7 @@ This repository contains solutions to LeetCode problems written in C.
 ### Array Manipulation
 - [Two Sum](1_Two_Sum.c) - Find two numbers that add up to target
 - [Contains Duplicate](217_Contains_Duplicate.c) - Check if array has duplicates
+- [Two Sum II - Input Array Is Sorted](167_Two_Sum_II_Input_Array_Is_Sorted.c) - Find two numbers that add up to target in sorted array
 - [Remove Duplicates from Sorted Array](26_Remove_Duplicates_from_Sorted_Arra.c) - Remove duplicates in-place
 - [Remove Element](27_Remove_Elemen.c) - Remove all occurrences of a value
 - [Move Zeroes](283_Move_Zeroe.c) - Move all zeros to the end
